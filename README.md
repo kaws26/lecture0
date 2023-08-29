@@ -1,3 +1,3 @@
-Hello
-This file is just for practicing git commands
-and to familirize to git
+Hello 
+<br>This file is just for practicing git commands</br>
+<br>and to familirize to git</br>
