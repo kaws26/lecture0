@@ -1,0 +1,4 @@
+id should be unique
+id is used to style exclusive custom text
+while class can be assigned to multiple tags 
+and is used to make changes to a set of selected statements that are in the same class
